@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+<<<<<<< HEAD
+  - enabled: 1
+    path: Assets/Scenes/GameStart.unity
+    guid: 808a5d874f9fe0e4ba02d56e5d3997fa
+  - enabled: 1
+    path: Assets/Scenes/GamePlay.unity
+    guid: a843354d3491883479810a4f91d9d9ce
+  - enabled: 1
+=======
+  - enabled: 0
+    path: Assets/Scenes/GameStart.unity
+    guid: 808a5d874f9fe0e4ba02d56e5d3997fa
+  - enabled: 0
+    path: Assets/Scenes/GamePlay.unity
+    guid: a843354d3491883479810a4f91d9d9ce
+  - enabled: 0
+>>>>>>> e1324f1 (block, ghost 추가)
+    path: Assets/Scenes/GameOver.unity
+    guid: 227bd11c2ea231f40acc16f4d49ea89c
+  m_configObjects: {}

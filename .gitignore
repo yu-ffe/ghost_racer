@@ -1,0 +1,23 @@
+# Unity generated folders
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Tt]arget/
+
+# User-specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Unity Asset Store tools
+/Assets/AssetStoreTools*
+
+# JetBrains Rider
+.idea/
+
+# User-specific settings
+*.user
+*.userprefs
